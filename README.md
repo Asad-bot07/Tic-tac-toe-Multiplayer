@@ -25,5 +25,5 @@ This is a simple **2-player Tic Tac Toe game** built in C++ as part of my **inte
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-cpp.git
+   git clone https://github.com/Asad-bot07/tic-tac-toe-cpp.git
    cd tic-tac-toe-cpp
